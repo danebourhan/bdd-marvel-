@@ -1,0 +1,1 @@
+INSERT INTO `acteurs`( `prénom`, `nom`, `date_de_naissance`) VALUES ('Chris','Pratt','1979-06-21');
